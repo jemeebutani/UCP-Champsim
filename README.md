@@ -1,2 +1,0 @@
-# UCP-Champsim
-project
